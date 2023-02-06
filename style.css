@@ -378,7 +378,7 @@ body.dark .home .home-content .modal-content {
     }
 }
 
-/* btn-delete */
+/* btn-update-delete */
 .button {
     width: 100px;
     height: 30px;
@@ -412,7 +412,7 @@ body.dark .home .home-content .modal-content {
 .button .icon {
     position: absolute;
     border-left: 1px solid #c41b1b;
-    transform: translateX(70px);
+    transform: translateX(60px);
     height: 15px;
     width: 15px;
     display: flex;
@@ -524,3 +524,5 @@ button:hover {
 .search-container:hover {
     animation: hoverShake 0.15s linear 3;
 }
+
+/* paging */
